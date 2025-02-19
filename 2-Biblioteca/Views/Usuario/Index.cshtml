@@ -1,5 +1,7 @@
 ﻿@model IEnumerable<_2_Biblioteca.Models.Domain.Usuario>
 @{
+    ViewData["Title"] = "Usuarios";
+
     Layout = "_LayoutDashboard";
 }
 
@@ -8,7 +10,7 @@
 
     <div class="row mb-3">
         <div class="col d-flex justify-content-end">
-            <a asp-action="" asp-controller="" class="btn btn-success btn-lg">
+            <a asp-action="Crear" asp-controller="Usuario" class="btn btn-success btn-lg">
                 <i class="fa-solid fa-user"></i> Nuevo
             </a>
         </div>
@@ -29,7 +31,7 @@
                                 <th>@Html.DisplayNameFor(x => x.Nombre)</th>
                                 <th>@Html.DisplayNameFor(x => x.UserName)</th>
                                 <th>@Html.DisplayNameFor(x => x.Password)</th>
-                                <th>@Html.DisplayNameFor(x => x.FkRol)</th>
+                                <th>Nombre Rol</th>
                                 <th>Acciones</th>
                             </tr>
                         </thead>
@@ -40,14 +42,16 @@
                                     <td>@Html.DisplayFor(x => item.Nombre)</td>
                                     <td>@Html.DisplayFor(x => item.UserName)</td>
                                     <td>@Html.DisplayFor(x => item.Password)</td>
-                                    <td>@Html.DisplayFor(x => item.FkRol)</td>
+                                    <td>@Html.DisplayFor(x => item.Roles.Nombre)</td>
                                     <td>
-                                        <a class="btn btn-warning btn-sm" asp-action="" asp-route-id="">
+                                        <a class="btn btn-warning btn-sm" asp-action="Editar" asp-route-id="@item.PkUsuario">
                                             <i class="fa-solid fa-pen-to-square"></i> Editar
                                         </a>
-                                        <a class="btn btn-danger btn-sm" asp-action="" asp-route-id="">
-                                            <i class="fa-solid fa-trash"></i> Eliminar
-                                        </a>
+                                        <form asp-action="Eliminar" asp-route-id="@item.PkUsuario" method="post" onsubmit="return confirm('¿Estás seguro de que deseas eliminar este usuario?');" style="display:inline;">
+                                            <button type="submit" class="btn btn-danger btn-sm">
+                                                <i class="fa-solid fa-trash"></i> Eliminar
+                                            </button>
+                                        </form>
                                     </td>
                                 </tr>
                             }

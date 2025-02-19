@@ -1,0 +1,62 @@
+﻿@model IEnumerable<_2_Biblioteca.Models.Domain.Rol>
+@{
+    ViewData["Title"] = "Roles";
+
+    Layout = "_LayoutDashboard";
+}
+
+<div class="container-fluid px-4">
+    <h1 class="mt-4">Roles</h1>
+
+    <div class="row mb-3">
+        <div class="col d-flex justify-content-end">
+            <a asp-action="Crear" asp-controller="Rol" class="btn btn-success btn-lg">
+                <i class="fa-solid fa-plus"></i> Nuevo
+            </a>
+        </div>
+    </div>
+
+    <div class="card border shadow-sm">
+        <div class="card-header bg-dark">
+            <h2 class="text-white m-0"><strong>Lista de roles</strong></h2>
+        </div>
+
+        <div class="card-body">
+            <div class="table-responsive overflow-auto" style="max-height: 70vh;">
+                @if (Model.Any())
+                {
+                    <table class="table table-bordered table-hover" id="tblRoles">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>@Html.DisplayNameFor(x => x.Nombre)</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@Html.DisplayFor(x => item.Nombre)</td>
+                                    <td>
+                                        <a class="btn btn-warning btn-sm" asp-action="Editar" asp-route-id="@item.PkRol">
+                                            <i class="fa-solid fa-pen-to-square"></i> Editar
+                                        </a>
+                                        <form asp-action="Eliminar" asp-route-id="@item.PkRol" method="post" onsubmit="return confirm('¿Estás seguro de que deseas eliminar este rol?');" style="display:inline;">
+                                            <button type="submit" class="btn btn-danger btn-sm">
+                                                <i class="fa-solid fa-trash"></i> Eliminar
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <p class="text-center text-muted">No hay registros disponibles.</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,8 +1,45 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Inicio";
+    Layout = "_LayoutDashboard";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+
+        <div class="row mt-5">
+            <div class="col-md-12 text-center">
+                <h2>Bienvenido al Sistema de Gestión de la Biblioteca</h2>
+                <p class="text-muted">
+                    Gestiona usuarios y roles.
+                </p>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card text-center shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="card-title">Usuarios</h4>
+                </div>
+                <div class="card-body">
+                    <h2 class="card-text">@ViewBag.TotalUsuarios</h2>
+                    <p class="text-muted">Usuarios registrados en la biblioteca.</p>
+                    <a href="@Url.Action("Index", "Usuario")" class="btn btn-primary">Ver Usuarios</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card text-center shadow">
+                <div class="card-header bg-success text-white">
+                    <h4 class="card-title">Roles</h4>
+                </div>
+                <div class="card-body">
+                    <h2 class="card-text">@ViewBag.TotalRoles</h2>
+                    <p class="text-muted">Roles disponibles en el sistema.</p>
+                    <a href="@Url.Action("Index", "Rol")" class="btn btn-success">Ver Roles</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+   
 </div>

@@ -9,51 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _2_Biblioteca
 build_property.RootNamespace = _2_Biblioteca
-build_property.ProjectDir = C:\Users\josem\Documents\UT CANCUN\majo\2-Biblioteca\2-Biblioteca\
+build_property.ProjectDir = C:\Users\josem\Documents\UT CANCUN\DESAROLLO WEB PROFESIONAL\2-Biblioteca\2-Biblioteca\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\josem\Documents\UT CANCUN\majo\2-Biblioteca\2-Biblioteca
+build_property.MSBuildProjectDirectory = C:\Users\josem\Documents\UT CANCUN\DESAROLLO WEB PROFESIONAL\2-Biblioteca\2-Biblioteca
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/Home/Index.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/Home/Privacy.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/Shared/Error.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Rol/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Rol/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Rol/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/Shared/LayoutNew.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Shared/LayoutNew.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dE5ldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/Usuario/Index.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Usuario/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Usuario/Crearfalse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhcmZhbHNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Usuario/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Usuario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/_ViewImports.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/_ViewStart.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/Shared/_Layout.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-oxl9ilxyec
 
-[C:/Users/josem/Documents/UT CANCUN/majo/2-Biblioteca/2-Biblioteca/Views/Shared/_LayoutDashboard.cshtml]
+[C:/Users/josem/Documents/UT CANCUN/DESAROLLO WEB PROFESIONAL/2-Biblioteca/2-Biblioteca/Views/Shared/_LayoutDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-utcxzund2w

@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\",
+  "WorkspaceRootPath": "C:\\Users\\josem\\Documents\\UT CANCUN\\DESAROLLO WEB PROFESIONAL\\2-Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|c:\\users\\josem\\documents\\ut cancun\\majo\\2-biblioteca\\2-biblioteca\\views\\shared\\layoutnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|solutionrelative:2-biblioteca\\views\\shared\\layoutnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|c:\\users\\josem\\documents\\ut cancun\\desarollo web profesional\\2-biblioteca\\2-biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|solutionrelative:2-biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|c:\\users\\josem\\documents\\ut cancun\\majo\\2-biblioteca\\2-biblioteca\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|solutionrelative:2-biblioteca\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|c:\\users\\josem\\documents\\ut cancun\\majo\\2-biblioteca\\2-biblioteca\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|solutionrelative:2-biblioteca\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|c:\\users\\josem\\documents\\ut cancun\\majo\\2-biblioteca\\2-biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|solutionrelative:2-biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|c:\\users\\josem\\documents\\ut cancun\\majo\\2-biblioteca\\2-biblioteca\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|solutionrelative:2-biblioteca\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|c:\\users\\josem\\documents\\ut cancun\\desarollo web profesional\\2-biblioteca\\2-biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0686D069-3041-43D2-9629-52328339A514}|2-Biblioteca\\2-Biblioteca.csproj|solutionrelative:2-biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,69 +21,56 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioServices.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Services\\Services\\UsuarioServices.cs",
-              "RelativeDocumentMoniker": "2-Biblioteca\\Services\\Services\\UsuarioServices.cs",
-              "ToolTip": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Services\\Services\\UsuarioServices.cs",
-              "RelativeToolTip": "2-Biblioteca\\Services\\Services\\UsuarioServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:03:26.019Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "2-Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "2-Biblioteca\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\Documents\\UT CANCUN\\DESAROLLO WEB PROFESIONAL\\2-Biblioteca\\2-Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "2-Biblioteca\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josem\\Documents\\UT CANCUN\\DESAROLLO WEB PROFESIONAL\\2-Biblioteca\\2-Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "2-Biblioteca\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T05:58:30.41Z",
+              "WhenOpened": "2025-02-19T04:47:24.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_LayoutDashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Views\\Shared\\_LayoutDashboard.cshtml",
-              "RelativeDocumentMoniker": "2-Biblioteca\\Views\\Shared\\_LayoutDashboard.cshtml",
-              "ToolTip": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Views\\Shared\\_LayoutDashboard.cshtml",
-              "RelativeToolTip": "2-Biblioteca\\Views\\Shared\\_LayoutDashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T05:53:34.645Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\Documents\\UT CANCUN\\DESAROLLO WEB PROFESIONAL\\2-Biblioteca\\2-Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "2-Biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\josem\\Documents\\UT CANCUN\\DESAROLLO WEB PROFESIONAL\\2-Biblioteca\\2-Biblioteca\\Program.cs",
+              "RelativeToolTip": "2-Biblioteca\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:46:50.182Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "2-Biblioteca\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "2-Biblioteca\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T05:53:28.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LayoutNew.cshtml",
-              "DocumentMoniker": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Views\\Shared\\LayoutNew.cshtml",
-              "RelativeDocumentMoniker": "2-Biblioteca\\Views\\Shared\\LayoutNew.cshtml",
-              "ToolTip": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\Views\\Shared\\LayoutNew.cshtml",
-              "RelativeToolTip": "2-Biblioteca\\Views\\Shared\\LayoutNew.cshtml",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAswGYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T05:51:30.038Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

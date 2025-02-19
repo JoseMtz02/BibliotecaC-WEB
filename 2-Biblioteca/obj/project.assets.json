@@ -4023,11 +4023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\2-Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\josem\\Documents\\UT CANCUN\\DESAROLLO WEB PROFESIONAL\\2-Biblioteca\\2-Biblioteca\\2-Biblioteca.csproj",
       "projectName": "2-Biblioteca",
-      "projectPath": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\2-Biblioteca.csproj",
+      "projectPath": "C:\\Users\\josem\\Documents\\UT CANCUN\\DESAROLLO WEB PROFESIONAL\\2-Biblioteca\\2-Biblioteca\\2-Biblioteca.csproj",
       "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\Documents\\UT CANCUN\\majo\\2-Biblioteca\\2-Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\josem\\Documents\\UT CANCUN\\DESAROLLO WEB PROFESIONAL\\2-Biblioteca\\2-Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

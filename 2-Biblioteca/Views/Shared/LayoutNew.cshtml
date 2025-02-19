@@ -24,33 +24,15 @@
             .main-content.collapsed {
                 margin-left: 0;
             }
-
-        .navbar {
-            padding: 0.5rem 1rem;
-        }
-
-        .search-box {
-            max-width: 300px;
-        }
-
-        /* Hacer que el botón hamburguesa sea siempre visible */
-        .navbar-toggler {
-            display: block !important; /* Aseguramos que se muestre siempre */
-        }
-
-        /* Ajustar espacio para que el navbar no se solape */
-        .navbar-collapse {
-            flex-grow: 0; /* Esto mantiene el contenido compacto */
-        }
     </style>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <button class="navbar-toggler" type="button" onclick="toggleSidebar()">
+    <nav class="navbar navbar-dark bg-dark p-2">
+        <button class="navbar-toggler justify-center" type="button" onclick="toggleSidebar()">
             <span class="navbar-toggler-icon"></span>
         </button>
         <form class="form-inline ml-auto">
-            <div class="input-group search-box">
+            <div class="input-group">
                 <input type="text" class="form-control" placeholder="Buscar..." aria-label="Buscar">
                 <div class="input-group-append">
                     <button class="btn btn-outline-light" type="button">
@@ -77,13 +59,10 @@
                         <a class="nav-link active text-primary fw-bold" asp-controller="Home" asp-action="Index">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white fw-bold" asp-controller="Home" asp-action="Privacy">Privacidad</a>
+                        <a class="nav-link text-white fw-bold" asp-controller="Usuario" asp-action="Index">Usuarios</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white fw-bold" asp-controller="Biblioteca" asp-action="Libros">Libros</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white fw-bold" asp-controller="Biblioteca" asp-action="Autores">Autores</a>
+                        <a class="nav-link text-white fw-bold" asp-controller="Rol" asp-action="Index">Roles</a>
                     </li>
                 </ul>
             </aside>
